@@ -1,0 +1,22 @@
+{
+	"blogs": [
+		{
+			"title": "My Overcomplicated Blazingly Fast* Personal Site 🚀⚡",
+			"date": "13-11-2024",
+			"id": "site_build",
+			"tags": ["web", "rust", "wasm", "git"]
+		},
+		{
+			"title": "Speeding Up the Rust Compiler",
+			"date": "24-11-2024",
+			"id": "rust_compiler",
+			"tags": ["rust", "cargo", "mold", "linker", "clang"]
+		},
+		{
+			"title": "Handling Options with Enums and Bitwise Operations",
+			"date": "13-11-2024",
+			"id": "cpp_enum",
+			"tags": ["c++", "c", "enum"]
+		}
+	]
+}
